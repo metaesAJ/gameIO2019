@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "47a0e4c0-97bd-403b-b1e9-713160afddf5",
+            "Value": {
+                "id": "673b3747-e7ca-47df-ac97-39e16f2ecc40",
+                "resourcePath": "objects\\oItemPick\\oItemPick.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "480b07f4-ee70-42ac-98af-02747d1aa2b1",
             "Value": {
                 "id": "a2fb7074-f699-457b-b7d3-fcfdb7541b9e",
@@ -119,11 +127,27 @@
             }
         },
         {
+            "Key": "5fdfcced-922d-459b-853a-b7eea03a137c",
+            "Value": {
+                "id": "99291939-014f-42f7-966c-a72205caa568",
+                "resourcePath": "sprites\\sHub\\sHub.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "64fcb200-c59b-4df8-b174-c2396324dcf1",
             "Value": {
                 "id": "8766e766-e5ba-4d69-8da6-430e2296e8c1",
                 "resourcePath": "scripts\\player_movement\\player_movement.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "69726400-2f3d-4c15-9fa2-598d9bd0b938",
+            "Value": {
+                "id": "f3b41c89-c8d3-4675-9fd5-46eea329bdff",
+                "resourcePath": "sprites\\sCoin\\sCoin.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,6 +183,14 @@
             }
         },
         {
+            "Key": "93206c59-2b27-4070-8ce2-ebf19a81538b",
+            "Value": {
+                "id": "0c3d6571-7b2e-46a1-9bfe-70f84e476096",
+                "resourcePath": "objects\\oHub\\oHub.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a304e4a3-4f86-4634-9512-5533170c9ff5",
             "Value": {
                 "id": "8870ab72-25bc-4335-9dfa-fd8b1657990f",
@@ -172,6 +204,14 @@
                 "id": "e13d100f-38e4-413a-b362-1dbcb4f82997",
                 "resourcePath": "views\\afeb55ab-8189-41fb-91d9-41a8a6c10bbd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b5356b20-9f26-40ed-8aba-504397ac51d3",
+            "Value": {
+                "id": "b7777401-31cb-4bd6-b035-3d9000cc6fe1",
+                "resourcePath": "objects\\oItem\\oItem.yy",
+                "resourceType": "GMObject"
             }
         },
         {
